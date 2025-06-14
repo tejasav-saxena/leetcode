@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tejasav-saxena/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/tejasav-saxena/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tejasav-saxena/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/tejasav-saxena/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
