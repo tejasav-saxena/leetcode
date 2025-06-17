@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tejasav-saxena/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/tejasav-saxena/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tejasav-saxena/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
