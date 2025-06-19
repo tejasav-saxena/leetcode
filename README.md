@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tejasav-saxena/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasav-saxena/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tejasav-saxena/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasav-saxena/leetcode/tree/master/0011-container-with-most-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
 |  |
@@ -114,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
