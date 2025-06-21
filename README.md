@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
+| [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasav-saxena/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Counting Sort
 |  |
