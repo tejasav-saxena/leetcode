@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tejasav-saxena/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Hash Table
