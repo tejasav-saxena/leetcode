@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tejasav-saxena/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasav-saxena/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tejasav-saxena/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/tejasav-saxena/leetcode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasav-saxena/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tejasav-saxena/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0229-majority-element-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tejasav-saxena/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasav-saxena/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -182,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tejasav-saxena/leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
