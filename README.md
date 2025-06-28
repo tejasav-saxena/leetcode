@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/tejasav-saxena/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tejasav-saxena/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tejasav-saxena/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasav-saxena/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
