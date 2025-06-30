@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasav-saxena/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejasav-saxena/leetcode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
