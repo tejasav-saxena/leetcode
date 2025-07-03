@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tejasav-saxena/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/tejasav-saxena/leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 ## Combinatorics
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
