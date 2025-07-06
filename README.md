@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tejasav-saxena/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tejasav-saxena/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/tejasav-saxena/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tejasav-saxena/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 ## Combinatorics
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejasav-saxena/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tejasav-saxena/leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 ## Heap (Priority Queue)
 |  |
