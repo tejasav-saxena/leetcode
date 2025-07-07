@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tejasav-saxena/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejasav-saxena/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasav-saxena/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tejasav-saxena/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tejasav-saxena/leetcode/tree/master/0061-rotate-list) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tejasav-saxena/leetcode/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
