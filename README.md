@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasav-saxena/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/tejasav-saxena/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/tejasav-saxena/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/tejasav-saxena/leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasav-saxena/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tejasav-saxena/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tejasav-saxena/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 ## Design
