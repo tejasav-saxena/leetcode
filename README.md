@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/tejasav-saxena/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/tejasav-saxena/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasav-saxena/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejasav-saxena/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/tejasav-saxena/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/tejasav-saxena/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejasav-saxena/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/tejasav-saxena/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasav-saxena/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
