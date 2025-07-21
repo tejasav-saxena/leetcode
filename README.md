@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/tejasav-saxena/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasav-saxena/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasav-saxena/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tejasav-saxena/leetcode/tree/master/0455-assign-cookies) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasav-saxena/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/tejasav-saxena/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tejasav-saxena/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tejasav-saxena/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasav-saxena/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasav-saxena/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tejasav-saxena/leetcode/tree/master/0455-assign-cookies) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/tejasav-saxena/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tejasav-saxena/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -392,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/tejasav-saxena/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasav-saxena/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
