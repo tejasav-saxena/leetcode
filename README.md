@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tejasav-saxena/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tejasav-saxena/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasav-saxena/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/tejasav-saxena/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tejasav-saxena/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejasav-saxena/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tejasav-saxena/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tejasav-saxena/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tejasav-saxena/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/tejasav-saxena/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/tejasav-saxena/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tejasav-saxena/leetcode/tree/master/0139-word-break) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejasav-saxena/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/tejasav-saxena/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 ## Combinatorics
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tejasav-saxena/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tejasav-saxena/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejasav-saxena/leetcode/tree/master/0389-find-the-difference) |
