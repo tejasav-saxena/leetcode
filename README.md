@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasav-saxena/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tejasav-saxena/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tejasav-saxena/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/tejasav-saxena/leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasav-saxena/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/tejasav-saxena/leetcode/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
