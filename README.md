@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tejasav-saxena/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1983-maximum-population-year](https://github.com/tejasav-saxena/leetcode/tree/master/1983-maximum-population-year) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1983-maximum-population-year](https://github.com/tejasav-saxena/leetcode/tree/master/1983-maximum-population-year) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/tejasav-saxena/leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tejasav-saxena/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1983-maximum-population-year](https://github.com/tejasav-saxena/leetcode/tree/master/1983-maximum-population-year) |
 ## Sliding Window
 |  |
 | ------- |
