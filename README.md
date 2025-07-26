@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1983-maximum-population-year](https://github.com/tejasav-saxena/leetcode/tree/master/1983-maximum-population-year) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/tejasav-saxena/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasav-saxena/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tejasav-saxena/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tejasav-saxena/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasav-saxena/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -480,4 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
