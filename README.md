@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tejasav-saxena/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/tejasav-saxena/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/tejasav-saxena/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasav-saxena/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejasav-saxena/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/tejasav-saxena/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/tejasav-saxena/leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tejasav-saxena/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/tejasav-saxena/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tejasav-saxena/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/tejasav-saxena/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0838-design-linked-list) |
 ## String Matching
