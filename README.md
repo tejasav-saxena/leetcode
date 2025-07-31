@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/tejasav-saxena/leetcode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejasav-saxena/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/tejasav-saxena/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/tejasav-saxena/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/tejasav-saxena/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tejasav-saxena/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2195-time-needed-to-buy-tickets](https://github.com/tejasav-saxena/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/tejasav-saxena/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
+| [2195-time-needed-to-buy-tickets](https://github.com/tejasav-saxena/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3447-clear-digits](https://github.com/tejasav-saxena/leetcode/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
