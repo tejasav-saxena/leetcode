@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tejasav-saxena/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
+| [0841-shortest-distance-to-a-character](https://github.com/tejasav-saxena/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/tejasav-saxena/leetcode/tree/master/0890-lemonade-change) |
 | [0912-random-pick-with-weight](https://github.com/tejasav-saxena/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/tejasav-saxena/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/tejasav-saxena/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0841-shortest-distance-to-a-character](https://github.com/tejasav-saxena/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/tejasav-saxena/leetcode/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/tejasav-saxena/leetcode/tree/master/0782-jewels-and-stones) |
+| [0841-shortest-distance-to-a-character](https://github.com/tejasav-saxena/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1078-remove-outermost-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasav-saxena/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3447-clear-digits](https://github.com/tejasav-saxena/leetcode/tree/master/3447-clear-digits) |
