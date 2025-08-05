@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/tejasav-saxena/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/tejasav-saxena/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1018-largest-perimeter-triangle](https://github.com/tejasav-saxena/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasav-saxena/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/tejasav-saxena/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0912-random-pick-with-weight](https://github.com/tejasav-saxena/leetcode/tree/master/0912-random-pick-with-weight) |
+| [1018-largest-perimeter-triangle](https://github.com/tejasav-saxena/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tejasav-saxena/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/tejasav-saxena/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/tejasav-saxena/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/tejasav-saxena/leetcode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/tejasav-saxena/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/tejasav-saxena/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
