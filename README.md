@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasav-saxena/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1217-relative-sort-array](https://github.com/tejasav-saxena/leetcode/tree/master/1217-relative-sort-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/tejasav-saxena/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1983-maximum-population-year](https://github.com/tejasav-saxena/leetcode/tree/master/1983-maximum-population-year) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/tejasav-saxena/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/tejasav-saxena/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1217-relative-sort-array](https://github.com/tejasav-saxena/leetcode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejasav-saxena/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tejasav-saxena/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/tejasav-saxena/leetcode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/tejasav-saxena/leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Counting
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tejasav-saxena/leetcode/tree/master/0274-h-index) |
+| [1217-relative-sort-array](https://github.com/tejasav-saxena/leetcode/tree/master/1217-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
