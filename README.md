@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0725-split-linked-list-in-parts](https://github.com/tejasav-saxena/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0908-middle-of-the-linked-list) |
