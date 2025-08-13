@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/tejasav-saxena/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tejasav-saxena/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/tejasav-saxena/leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tejasav-saxena/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/tejasav-saxena/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/tejasav-saxena/leetcode/tree/master/0441-arranging-coins) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tejasav-saxena/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasav-saxena/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/tejasav-saxena/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/tejasav-saxena/leetcode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tejasav-saxena/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
