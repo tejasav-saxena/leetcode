@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejasav-saxena/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/tejasav-saxena/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tejasav-saxena/leetcode/tree/master/0278-first-bad-version) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tejasav-saxena/leetcode/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/tejasav-saxena/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tejasav-saxena/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tejasav-saxena/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejasav-saxena/leetcode/tree/master/0389-find-the-difference) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasav-saxena/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasav-saxena/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/tejasav-saxena/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejasav-saxena/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasav-saxena/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasav-saxena/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/tejasav-saxena/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejasav-saxena/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bucket Sort
 |  |
