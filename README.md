@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tejasav-saxena/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasav-saxena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/tejasav-saxena/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tejasav-saxena/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tejasav-saxena/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/tejasav-saxena/leetcode/tree/master/0969-number-of-recent-calls) |
 ## String Matching
 |  |
 | ------- |
@@ -661,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tejasav-saxena/leetcode/tree/master/0148-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/tejasav-saxena/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
