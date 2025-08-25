@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/tejasav-saxena/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/tejasav-saxena/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0841-shortest-distance-to-a-character](https://github.com/tejasav-saxena/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/tejasav-saxena/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/tejasav-saxena/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/tejasav-saxena/leetcode/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/tejasav-saxena/leetcode/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/tejasav-saxena/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/tejasav-saxena/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejasav-saxena/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tejasav-saxena/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasav-saxena/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tejasav-saxena/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0874-backspace-string-compare](https://github.com/tejasav-saxena/leetcode/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/tejasav-saxena/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [3447-clear-digits](https://github.com/tejasav-saxena/leetcode/tree/master/3447-clear-digits) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/tejasav-saxena/leetcode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/tejasav-saxena/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/tejasav-saxena/leetcode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/tejasav-saxena/leetcode/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/tejasav-saxena/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3447-clear-digits](https://github.com/tejasav-saxena/leetcode/tree/master/3447-clear-digits) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/tejasav-saxena/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
