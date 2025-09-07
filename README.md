@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/tejasav-saxena/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tejasav-saxena/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/tejasav-saxena/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1039-find-the-town-judge](https://github.com/tejasav-saxena/leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tejasav-saxena/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/tejasav-saxena/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1217-relative-sort-array](https://github.com/tejasav-saxena/leetcode/tree/master/1217-relative-sort-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/tejasav-saxena/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/tejasav-saxena/leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/tejasav-saxena/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/tejasav-saxena/leetcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/tejasav-saxena/leetcode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tejasav-saxena/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tejasav-saxena/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -709,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/tejasav-saxena/leetcode/tree/master/0969-number-of-recent-calls) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/tejasav-saxena/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
