@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejasav-saxena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/tejasav-saxena/leetcode/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/tejasav-saxena/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Simulation
 |  |
 | ------- |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejasav-saxena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/tejasav-saxena/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejasav-saxena/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/tejasav-saxena/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tejasav-saxena/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejasav-saxena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejasav-saxena/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/tejasav-saxena/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejasav-saxena/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/tejasav-saxena/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejasav-saxena/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/tejasav-saxena/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Bucket Sort
 |  |
 | ------- |
